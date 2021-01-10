@@ -1,6 +1,6 @@
 # number_game_app
 
-My second cheap application with [react native](https://reactnative.dev/) and [expo](https://expo.io/)!
+My second cheap application with [react native](https://reactnative.dev/) and [expo](https://expo.io/)
 
 ![Recordit GIF](https://raw.githubusercontent.com/trixky/number_game_app/master/demo/gif.gif)
 

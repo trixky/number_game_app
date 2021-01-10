@@ -2,7 +2,7 @@
 
 My second cheap application with [react native](https://reactnative.dev/) and [expo](https://expo.io/)!
 
-![Recordit GIF](https://github.com/trixky/number_game_app/blob/main/demo/gif.gif)
+![Recordit GIF](https://raw.githubusercontent.com/trixky/number_game_app/master/demo/gif.gif)
 
 ## Usage
 
